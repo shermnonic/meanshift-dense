@@ -18,3 +18,6 @@ the density.
 Identification of stable modes (e.g. via perturbation analysis) and deriving 
 a clustering from the result is up to the callee.
 
+
+![Example output of meanshift-emblem.cpp](meanshift-emblem-sample.png)
+
